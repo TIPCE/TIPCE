@@ -1,4 +1,8 @@
-A list of various platforms sharing ti which were Initially analysed by our team
+In this study, we collected over 50,000 threat reports from different sources. This comprehensive collection of threat reports contributed to the inclusiveness of our dataset, encompassing various cyber threats such as different incidents, advanced persistent threat (APT) groups, and incidents related to different geo-locations and industries. Our data collection spans an 18-year period (2005-2022), enabling us to study TISP databases over time. Table presents the overview of TR sources, the number of reports collected from each source, and the number of IOCs extracted per IOC type. The last column in this table describes the characteristics of the Threat Reports Dataset (TRD), which we use to study TISPs.  
+
+The last five columns of the Table show the results of our IOC extraction from threat report sources, delineating each source's characteristics, such as the number of reports provided by each source, the average number of IOCs per source, and the number of IOCs per IOC type. This table delivers an overview of the threat report sources' landscape.
+
+Table:A list of various platforms sharing ti which were Initially analysed by our team
 
 
 ![image](https://github.com/TIPCE/TIPCE/assets/160275708/dc40a937-6bc8-404a-a0a1-a6f10d0fcce8)
