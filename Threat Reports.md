@@ -3,6 +3,6 @@ In this study, we collected over 50,000 threat reports from different sources. T
 The last five columns of the Table show the results of our IOC extraction from threat report sources, delineating each source's characteristics, such as the number of reports provided by each source, the average number of IOCs per source, and the number of IOCs per IOC type. This table delivers an overview of the threat report sources' landscape.
 
 
-Table: Threat report sources and overall characteristics of each source per IOC type: Hash (i.e., MD5, SHA128, SHA256, SHA512), IP (v4) addresses, and URLs.
+**Table:** Threat report sources and overall characteristics of each source per IOC type: Hash (i.e., MD5, SHA128, SHA256, SHA512), IP (v4) addresses, and URLs.
 
 ![image](https://github.com/TIPCE/TIPCE/assets/160275708/95f949eb-814e-41ea-be6b-e043a28a5d98)
